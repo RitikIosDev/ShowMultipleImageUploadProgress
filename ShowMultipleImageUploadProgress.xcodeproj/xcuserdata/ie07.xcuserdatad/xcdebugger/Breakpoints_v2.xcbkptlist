@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BCA10546-08EA-4244-B291-F834CD7D183D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F49A52A-44D7-4B85-A10E-A3C1FF778AF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShowMultipleImageUploadProgress/ImageUploadManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "updateTask(id:progress:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F49A52A-44D7-4B85-A10E-A3C1FF778AF3 - c7b8b2371fefd222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShowMultipleImageUploadProgress.ImageUploadManager.updateTask(id: Swift.String, progress: Swift.Float) -&gt; ()"
+                  moduleName = "ShowMultipleImageUploadProgress"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/Desktop/One%20Above%20All/Ritik/MultipleUploadProgressDemo/ShowMultipleImageUploadProgress/ShowMultipleImageUploadProgress/ImageUploadManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "3F49A52A-44D7-4B85-A10E-A3C1FF778AF3 - c7b8b2371fefd222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShowMultipleImageUploadProgress.ImageUploadManager.updateTask(id: Swift.String, progress: Swift.Float) -&gt; ()"
+                  moduleName = "ShowMultipleImageUploadProgress"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/Desktop/One%20Above%20All/Ritik/MultipleUploadProgressDemo/ShowMultipleImageUploadProgress/ShowMultipleImageUploadProgress/ImageUploadManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "295">
+               </Location>
+               <Location
+                  uuid = "3F49A52A-44D7-4B85-A10E-A3C1FF778AF3 - e927575be4434320"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ShowMultipleImageUploadProgress.UploadTask) -&gt; Swift.Bool in ShowMultipleImageUploadProgress.ImageUploadManager.updateTask(id: Swift.String, progress: Swift.Float) -&gt; ()"
+                  moduleName = "ShowMultipleImageUploadProgress"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ie07/Desktop/One%20Above%20All/Ritik/MultipleUploadProgressDemo/ShowMultipleImageUploadProgress/ShowMultipleImageUploadProgress/ImageUploadManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
